@@ -1,0 +1,3 @@
+/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 18787 -- DPS: 142 -- Scaled: 142 -- Slash: 17891 -- Environmental: 508 -- DirDmg: 388 -- % dmg as normal: 88.1% -- % dmg as critical: 11.9% -- Non-crit rate: 92.7% -- crit rate: 7.3% -- Attempts: 309 -- Hits: 218 -- Missed: 91 -- Accuracy: 70.6% -- Avg Hit: 86 -- Max hit: 218 -- DMG to PC: 9190
+
+/GU General Reparm in 132s, 18787 @142 | Tentanksx 18787@142 {X}
