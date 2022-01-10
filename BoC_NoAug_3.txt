@@ -1,3 +1,0 @@
-/GU General Reparm in 166s, 23307 @140 | Tentanksx 23307@140 {X}
-
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 23307 -- DPS: 140 -- Scaled: 140 -- Slash: 22926 -- Environmental: 381 -- % dmg as normal: 88.3% -- % dmg as critical: 11.7% -- Non-crit rate: 92.3% -- crit rate: 7.7% -- Attempts: 377 -- Hits: 259 -- Missed: 118 -- Accuracy: 68.7% -- Avg Hit: 89 -- Max hit: 218 -- DMG to PC: 5951

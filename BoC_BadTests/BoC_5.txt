@@ -1,0 +1,4 @@
+/GU General Reparm in 147s, 9978 @67 | Tentanksx 9978@67 {X}
+/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 9978 -- DPS: 69 -- Scaled: 67 -- Slash: 9654 -- DirDmg: 324 -- % dmg as normal: 83.6% -- % dmg as critical: 16.4% -- Non-crit rate: 89.7% -- crit rate: 10.3% -- Attempts: 205 -- Hits: 126 -- Missed: 79 -- Accuracy: 61.5% -- Avg Hit: 79 -- Max hit: 218 -- DMG to PC: 7054
+
+I do not trust this test because I discovered that /resetaa only works during the session you are using it.  After I log my sk out and back in he gets given about 7k worth of aa's, I believe this is because he is a heroic toon so the autogranted heroic aa's get given to him upon logging back in.  One of these aa's is bold attacks which increases threat generated.

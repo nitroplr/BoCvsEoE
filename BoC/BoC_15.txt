@@ -1,0 +1,2 @@
+/GU A Cog Marauder in 512s, 60747 @118 | Tentanksx 60427@118 {X} | Tennisongs 320@0
+/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 60427 -- DPS: 118 -- Scaled: 118 -- Slash: 58939 -- DirDmg: 980 -- Environmental: 508 -- % dmg as normal: 85% -- % dmg as critical: 15% -- Non-crit rate: 90.3% -- crit rate: 9.7% -- Attempts: 1115 -- Hits: 773 -- Missed: 342 -- Accuracy: 69.3% -- Avg Hit: 78 -- Max hit: 218 -- DMG to PC: 9782

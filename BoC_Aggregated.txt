@@ -1,35 +1,18 @@
-**BoC primary with a wulfenite gem aug, stat doll secondary, 65 War in era pop stats with 225% haste and atk buff, all offensive aa's
-**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and a single terror worth 18,587 threat - Death's Effigy and bard offtank(grouped with tank for haste/atk) used at the start to ensure 0 threat
-**10 runs 171.3 second average to pull threat = 108.5 threat/sec
+**BoC primary with a wulfenite gem aug, stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and three terrors worth 18,587 threat each(55,716 total - still 1.5 mins after warrior pulls agro before terror threat falls off and mob switches to the bard) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
+**5 runs 484 second average to pull threat = 115.2 threat/sec
 
-/GU General Reparm in 132s, 18787 @142 | Tentanksx 18787@142 {X}
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 18787 -- DPS: 142 -- Scaled: 142 -- Slash: 17891 -- Environmental: 508 -- DirDmg: 388 -- % dmg as normal: 88.1% -- % dmg as critical: 11.9% -- Non-crit rate: 92.7% -- crit rate: 7.3% -- Attempts: 309 -- Hits: 218 -- Missed: 91 -- Accuracy: 70.6% -- Avg Hit: 86 -- Max hit: 218 -- DMG to PC: 9190
+/GU A Cog Marauder in 462s, 56018 @121 | Tentanksx 54938@118 {X} | Tennisongs 1080@2
+/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 54938 -- DPS: 118 -- Scaled: 118 -- Slash: 53061 -- DirDmg: 1289 -- Environmental: 588 -- % dmg as normal: 85.7% -- % dmg as critical: 14.3% -- Non-crit rate: 91.2% -- crit rate: 8.8% -- Attempts: 1023 -- Hits: 679 -- Missed: 342 -- Defended: 2 -- Accuracy: 66.5% -- Avg Hit: 80 -- Max hit: 218 -- DMG to PC: 9076
 
-/GU General Reparm in 144s, 18275 @126 | Tentanksx 18275@126 {X}
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 18275 -- DPS: 129 -- Scaled: 126 -- Slash: 17733 -- Environmental: 508 -- DirDmg: 34 -- % dmg as normal: 84.8% -- % dmg as critical: 15.2% -- Non-crit rate: 88.3% -- crit rate: 11.7% -- Attempts: 311 -- Hits: 205 -- Missed: 106 -- Accuracy: 65.9% -- Avg Hit: 89 -- Max hit: 218 -- DMG to PC: 4937
+/GU A Cog Marauder in 464s, 55909 @120 | Tentanksx 55189@118 {X} | Tennisongs 720@1
+/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 55189 -- DPS: 118 -- Scaled: 118 -- Slash: 53468 -- DirDmg: 1280 -- Environmental: 441 -- % dmg as normal: 85.8% -- % dmg as critical: 14.2% -- Non-crit rate: 90.4% -- crit rate: 9.6% -- Attempts: 1048 -- Hits: 698 -- Missed: 349 -- Defended: 1 -- Accuracy: 66.7% -- Avg Hit: 79 -- Max hit: 218 -- DMG to PC: 7691
 
-/GU General Reparm in 147s, 9978 @67 | Tentanksx 9978@67 {X}
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 9978 -- DPS: 69 -- Scaled: 67 -- Slash: 9654 -- DirDmg: 324 -- % dmg as normal: 83.6% -- % dmg as critical: 16.4% -- Non-crit rate: 89.7% -- crit rate: 10.3% -- Attempts: 205 -- Hits: 126 -- Missed: 79 -- Accuracy: 61.5% -- Avg Hit: 79 -- Max hit: 218 -- DMG to PC: 7054
+/GU A Cog Marauder in 490s, 58235 @118 | Tentanksx 57595@117 {X} | Tennisongs 640@1
+/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 57595 -- DPS: 117 -- Scaled: 117 -- Slash: 55839 -- DirDmg: 1248 -- Environmental: 508 -- % dmg as normal: 85.7% -- % dmg as critical: 14.3% -- Non-crit rate: 89.5% -- crit rate: 10.5% -- Attempts: 1113 -- Hits: 731 -- Missed: 382 -- Accuracy: 65.7% -- Avg Hit: 78 -- Max hit: 218 -- DMG to PC: 9783
 
-/GU General Reparm in 165s, 23999 @145 | Tentanksx 23999@145 {X}
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 23999 -- DPS: 146 -- Scaled: 145 -- Slash: 23008 -- Environmental: 508 -- DirDmg: 483 -- % dmg as normal: 82% -- % dmg as critical: 18% -- Non-crit rate: 86.6% -- crit rate: 13.4% -- Attempts: 361 -- Hits: 262 -- Missed: 99 -- Accuracy: 72.6% -- Avg Hit: 91 -- Max hit: 218 -- DMG to PC: 5713
+/GU A Cog Marauder in 492s, 61810 @125 | Tentanksx 60130@122 {X} | Tennisongs 1680@3
+/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 60130 -- DPS: 122 -- Scaled: 122 -- Slash: 58678 -- DirDmg: 1011 -- Environmental: 441 -- % dmg as normal: 80.5% -- % dmg as critical: 19.5% -- Non-crit rate: 87.9% -- crit rate: 12.1% -- Attempts: 1097 -- Hits: 755 -- Missed: 342 -- Accuracy: 68.8% -- Avg Hit: 79 -- Max hit: 218 -- DMG to PC: 7928
 
-/GU General Reparm in 169s, 21409 @126 | Tentanksx 21409@126 {X}
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 21409 -- DPS: 126 -- Scaled: 126 -- Slash: 20395 -- Environmental: 635 -- DirDmg: 379 -- % dmg as normal: 84.6% -- % dmg as critical: 15.4% -- Non-crit rate: 90.7% -- crit rate: 9.3% -- Attempts: 394 -- Hits: 248 -- Missed: 146 -- Accuracy: 62.9% -- Avg Hit: 86 -- Max hit: 214 -- DMG to PC: 6384
-
-/GU General Reparm in 178s, 23535 @132 | Tentanksx 23535@132 {X}
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 23535 -- DPS: 132 -- Scaled: 132 -- Slash: 22448 -- Environmental: 762 -- DirDmg: 325 -- % dmg as normal: 86.1% -- % dmg as critical: 13.9% -- Non-crit rate: 91.8% -- crit rate: 8.2% -- Attempts: 415 -- Hits: 269 -- Missed: 146 -- Accuracy: 64.8% -- Avg Hit: 87 -- Max hit: 218 -- DMG to PC: 8739
-
-/GU General Reparm in 183s, 24651 @134 | Tentanksx 24651@134 {X}
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 24651 -- DPS: 134 -- Scaled: 134 -- Slash: 23350 -- Environmental: 889 -- DirDmg: 412 -- % dmg as normal: 83.4% -- % dmg as critical: 16.6% -- Non-crit rate: 90.2% -- crit rate: 9.8% -- Attempts: 409 -- Hits: 276 -- Missed: 132 -- Defended: 1 -- Accuracy: 67.6% -- Avg Hit: 89 -- Max hit: 218 -- DMG to PC: 9295
-
-/GU General Reparm in 185s, 24950 @134 | Tentanksx 24950@134 {X}
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 24950 -- DPS: 134 -- Scaled: 134 -- Slash: 24229 -- Environmental: 508 -- DirDmg: 213 -- % dmg as normal: 85.5% -- % dmg as critical: 14.5% -- Non-crit rate: 90.2% -- crit rate: 9.8% -- Attempts: 424 -- Hits: 276 -- Missed: 148 -- Accuracy: 65.1% -- Avg Hit: 90 -- Max hit: 218 -- DMG to PC: 7996
-
-
-/GU General Reparm in 193s, 26013 @134 | Tentanksx 26013@134 {X}
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 26013 -- DPS: 135 -- Scaled: 134 -- Slash: 25404 -- Environmental: 381 -- DirDmg: 228 -- % dmg as normal: 79.1% -- % dmg as critical: 20.9% -- Non-crit rate: 87.5% -- crit rate: 12.5% -- Attempts: 415 -- Hits: 279 -- Missed: 136 -- Accuracy: 67.2% -- Avg Hit: 93 -- Max hit: 218 -- DMG to PC: 7146
-
-
-/GU General Reparm in 217s, 27668 @127 | Tentanksx 27668@127 {X}
-/tell Tentanksx Tentanksx -vs- General Reparm: -- DMG: 27668 -- DPS: 127 -- Scaled: 127 -- Slash: 27155 -- Environmental: 508 -- DirDmg: 5 -- % dmg as normal: 85.8% -- % dmg as critical: 14.2% -- Non-crit rate: 90.7% -- crit rate: 9.3% -- Attempts: 454 -- Hits: 302 -- Missed: 152 -- Accuracy: 66.5% -- Avg Hit: 91 -- Max hit: 218 -- DMG to PC: 8832
+/GU A Cog Marauder in 512s, 60747 @118 | Tentanksx 60427@118 {X} | Tennisongs 320@0
+/tell Tentanksx Tentanksx   -vs- A Cog Marauder: -- DMG: 60427 -- DPS: 118 -- Scaled: 118 -- Slash: 58939 -- DirDmg: 980 -- Environmental: 508 -- % dmg as normal: 85% -- % dmg as critical: 15% -- Non-crit rate: 90.3% -- crit rate: 9.7% -- Attempts: 1115 -- Hits: 773 -- Missed: 342 -- Accuracy: 69.3% -- Avg Hit: 78 -- Max hit: 218 -- DMG to PC: 9782
