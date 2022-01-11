@@ -1,6 +1,6 @@
 **Bloodfrenzy primary with wulfenite gem, stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
 **Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and three terrors worth 18,587 threat each(55,716 total - still 1.5 mins after warrior pulls agro before terror threat falls off and mob switches to the bard) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
-**7 runs 435.4 second average to pull threat = 128 threat/sec
+**8 runs 439.375 second average to pull threat = 126.8 threat/sec
 
 /GU A Cog Marauder in 392s, 48578 @123 | Tentanksx 48418@123 {X} | Tennisongs 160@0
 /tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 48418 -- DPS: 123 -- Scaled: 123 -- Slash: 47381 -- DirDmg: 910 -- Environmental: 127 -- % dmg as normal: 85.4% -- % dmg as critical: 14.6% -- Non-crit rate: 90.5% -- crit rate: 9.5% -- Attempts: 878 -- Hits: 578 -- Missed: 300 -- Accuracy: 65.8% -- Avg Hit: 83 -- Max hit: 231 -- DMG to PC: 9665
@@ -19,6 +19,10 @@
 
 /GU A Cog Marauder in 456s, 57487 @126 | Tentanksx 57487@126 {X}
 /tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 57487 -- DPS: 126 -- Scaled: 126 -- Slash: 55791 -- DirDmg: 1315 -- Environmental: 381 -- % dmg as normal: 85.3% -- % dmg as critical: 14.7% -- Non-crit rate: 89.9% -- crit rate: 10.1% -- Attempts: 1060 -- Hits: 690 -- Missed: 370 -- Accuracy: 65.1% -- Avg Hit: 83 -- Max hit: 231 -- DMG to PC: 8518
+
+/GU An Orator`s army soldier in 467s, 52680 @112 | Tentanksx 52680@112 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 52680 -- DPS: 113 -- Scaled: 112 -- Slash: 52553 -- Environmental: 127 -- % dmg as normal: 86.8% -- % dmg as critical: 13.2% -- Non-crit rate: 91.1% -- crit rate: 8.9% -- Attempts: 988 -- Hits: 641 -- Missed: 347 -- Accuracy: 64.9% -- Avg Hit: 82 -- Max hit: 231 -- DMG to PC: 7696
+-Vs a level 93 mob just as a check on the dw/2h parses against this mob
 
 /GU A Cog Marauder in 471s, 54695 @116 | Tentanksx 54375@115 {X} | Tennisongs 320@0
 /tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 54375 -- DPS: 115 -- Scaled: 115 -- Slash: 52887 -- DirDmg: 980 -- Environmental: 508 -- % dmg as normal: 83% -- % dmg as critical: 17% -- Non-crit rate: 89.1% -- crit rate: 10.9% -- Attempts: 1038 -- Hits: 680 -- Missed: 358 -- Accuracy: 65.5% -- Avg Hit: 79 -- Max hit: 231 -- DMG to PC: 9220

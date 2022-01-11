@@ -1,6 +1,6 @@
 1H Parses
 
-Bloodfrenzy (Wulfenite Gem) - 7 (3 terror) runs 435.4 second average to pull threat = 128 threat/sec
+Bloodfrenzy (Wulfenite Gem) - 8 (3 terror) runs 439.375 second average to pull threat = 126.8 threat/sec
 BoC (Wulfenite Gem) - 5 (3 terror) runs 484 second average to pull threat = 115.2 threat/sec
 Obsidian Scimitar of War (Wulfenite Gem) - 5 (3 terror) runs 508.2 second average to pull threat = 109.6 threat/sec
 Stone Etched Mallet (Wulfenite Gem) - 5 (3 terror) runs 554.2 second average to pull threat = 100.5 threat/sec
