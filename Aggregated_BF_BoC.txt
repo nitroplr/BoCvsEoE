@@ -1,0 +1,9 @@
+**Bloodfrenzy primary with a wulfenite gem aug, BoC secondary with a wulfenite segment, stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 20 terrors worth 18,587 threat each(371,740) total - still 1.5 mins after warrior pulls agro before terror threat falls off and mob switches to the bard) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
+**2 runs 2200.5 second average to pull threat = 168.9 threat/sec
+
+/GU An Orator`s army soldier in 2122s, 387k @182 | Tentanksx 387k@182 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 387422 -- DPS: 182 -- Scaled: 182 -- Slash: 387168 -- Environmental: 254 -- % dmg as normal: 83.5% -- % dmg as critical: 16.5% -- Non-crit rate: 89.6% -- crit rate: 10.4% -- Attempts: 8017 -- Hits: 5099 -- Missed: 2706 -- Defended: 212 -- Accuracy: 65.3% -- Avg Hit: 75 -- Max hit: 231 -- DMG to PC: 12425
+
+/GU An Orator`s army soldier in 2319s, 448k @193 | Tentanksx 448k@193 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 447743 -- DPS: 193 -- Scaled: 193 -- Slash: 447616 -- Environmental: 127 -- % dmg as normal: 82.6% -- % dmg as critical: 17.4% -- Non-crit rate: 89.4% -- crit rate: 10.6% -- Attempts: 8817 -- Hits: 5829 -- Missed: 2988 -- Accuracy: 66.1% -- Avg Hit: 76 -- Max hit: 231 -- DMG to PC: 10664

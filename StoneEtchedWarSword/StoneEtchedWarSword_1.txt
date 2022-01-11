@@ -1,0 +1,2 @@
+/GU An Orator`s army soldier in 2893s, 625k @215 | Tentanksx 625k@215 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 624690 -- DPS: 215 -- Scaled: 215 -- Slash: 624563 -- Environmental: 127 -- % dmg as normal: 85.1% -- % dmg as critical: 14.9% -- Non-crit rate: 90.2% -- crit rate: 9.8% -- Attempts: 4405 -- Hits: 2799 -- Missed: 1606 -- Accuracy: 63.5% -- Avg Hit: 223 -- Max hit: 625 -- DMG to PC: 9815
