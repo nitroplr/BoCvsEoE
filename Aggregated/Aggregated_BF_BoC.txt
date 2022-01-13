@@ -1,5 +1,5 @@
 **Bloodfrenzy primary with a wulfenite gem aug, BoC secondary with a wulfenite segment, stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
-**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 20 terrors worth 18,587 threat each(371,740) total - still 1.5 mins after warrior pulls agro before terror threat falls off and mob switches to the bard) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 20 terrors worth 18,587 threat each(371,740) total - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
 **2 runs 2200.5 second average to pull threat = 168.9 threat/sec
 
 /GU An Orator`s army soldier in 2122s, 387k @182 | Tentanksx 387k@182 {X}

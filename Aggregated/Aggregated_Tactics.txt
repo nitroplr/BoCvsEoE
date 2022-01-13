@@ -1,0 +1,3 @@
+**Blade of Tactics (no aug), stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
+**1 run 2893 second average to pull threat = 128.5 threat/sec
