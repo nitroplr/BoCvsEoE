@@ -1,9 +1,3 @@
 **Blade of Strategy (no aug), stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
 **Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
 **2 runs 3601.5 second average to pull threat = 51.6 threat/sec
-
-/GU An Orator`s army soldier in 3540s, 348k @98 | Tentanksx 348k@98 {X}
-/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 348357 -- DPS: 98 -- Scaled: 98 -- Slash: 348210 -- Environmental: 147 -- % dmg as normal: 85% -- % dmg as critical: 15% -- Non-crit rate: 90.3% -- crit rate: 9.7% -- Attempts: 6489 -- Hits: 4287 -- Missed: 2202 -- Accuracy: 66.1% -- Avg Hit: 81 -- Max hit: 210 -- DMG to PC: 10664
-
-/GU An Orator`s army soldier in 3663s, 360k @98 | Tentanksx 360k@98 {X}
-/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 360250 -- DPS: 98 -- Scaled: 98 -- Slash: 360103 -- Environmental: 147 -- % dmg as normal: 84.9% -- % dmg as critical: 15.1% -- Non-crit rate: 90% -- crit rate: 10% -- Attempts: 6710 -- Hits: 4435 -- Missed: 2275 -- Accuracy: 66.1% -- Avg Hit: 81 -- Max hit: 210 -- DMG to PC: 10664

@@ -1,9 +1,9 @@
 **Short Sword of the Ykesha (Wulfenite Gem), stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
 **Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
-**2 runs 3418 second average to pull threat = 54.4 threat/sec
+**2 runs 2526 second average to pull threat = 73.6 threat/sec
 
-/GU An Orator`s army soldier in 3432s, 230k @66 | Tentanksx 230k@66 {X}
-/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 229911 -- DPS: 67 -- Scaled: 66 -- Slash: 229764 -- Environmental: 147 -- % dmg as normal: 84.8% -- % dmg as critical: 15.2% -- Non-crit rate: 89.9% -- crit rate: 10.1% -- Attempts: 6268 -- Hits: 4106 -- Missed: 2162 -- Accuracy: 65.5% -- Avg Hit: 55 -- Max hit: 147 -- DMG to PC: 7271
+/GU An Orator`s army soldier in 2544s, 174k @68 | Tentanksx 174k@68 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 174023 -- DPS: 68 -- Scaled: 68 -- Slash: 173729 -- Environmental: 294 -- % dmg as normal: 84.3% -- % dmg as critical: 15.7% -- Non-crit rate: 89.4% -- crit rate: 10.6% -- Attempts: 4742 -- Hits: 3122 -- Missed: 1620 -- Accuracy: 65.8% -- Avg Hit: 55 -- Max hit: 147 -- DMG to PC: 17088
 
-/GU An Orator`s army soldier in 3404s, 231k @67 | Tentanksx 231k@67 {X}
-/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 230825 -- DPS: 67 -- Scaled: 67 -- Slash: 230531 -- Environmental: 294 -- % dmg as normal: 84.4% -- % dmg as critical: 15.6% -- Non-crit rate: 89.8% -- crit rate: 10.2% -- Attempts: 6287 -- Hits: 4170 -- Missed: 2117 -- Accuracy: 66.3% -- Avg Hit: 55 -- Max hit: 147 -- DMG to PC: 9066
+/GU An Orator`s army soldier in 2508s, 170k @67 | Tentanksx 170k@60 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 169940 -- DPS: 67 -- Scaled: 67 -- Slash: 169793 -- Environmental: 147 -- % dmg as normal: 83.8% -- % dmg as critical: 16.2% -- Non-crit rate: 89.1% -- crit rate: 10.9% -- Attempts: 4615 -- Hits: 3033 -- Missed: 1582 -- Accuracy: 65.7% -- Avg Hit: 56 -- Max hit: 147 -- DMG to PC: 10664

@@ -1,0 +1,9 @@
+**Darkblade of the Warlord (No Aug), stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
+**2 runs 1464.5 second average to pull threat = 126.9 threat/sec
+
+/GU An Orator`s army conscript in 1457s, 233k @159 | Tentanksx 233k@159 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 232971 -- DPS: 160 -- Scaled: 159 -- Slash: 232824 -- Environmental: 147 -- % dmg as normal: 82.9% -- % dmg as critical: 17.1% -- Non-crit rate: 89.5% -- crit rate: 10.5% -- Attempts: 1853 -- Hits: 1223 -- Missed: 630 -- Accuracy: 66% -- Avg Hit: 190 -- Max hit: 530 -- DMG to PC: 10023
+
+/GU An Orator`s army conscript in 1472s, 247k @168 | Tentanksx 247k@167 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 247392 -- DPS: 168 -- Scaled: 168 -- Slash: 247098 -- Environmental: 294 -- % dmg as normal: 84.5% -- % dmg as critical: 15.5% -- Non-crit rate: 89.8% -- crit rate: 10.2% -- Attempts: 1874 -- Hits: 1285 -- Missed: 589 -- Accuracy: 68.6% -- Avg Hit: 192 -- Max hit: 530 -- DMG to PC: 13288

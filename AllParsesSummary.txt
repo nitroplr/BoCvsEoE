@@ -1,13 +1,14 @@
 1H Parses
 
+Darkblade of the Warlord (No Aug) - 2 (10 terror) runs 1464.5 second average to pull threat = 126.9 threat/sec
 Bloodfrenzy (Wulfenite Gem) - 8 (3 terror) runs 439.375 second average to pull threat = 126.8 threat/sec
 BoC (Wulfenite Gem) - 5 (3 terror) runs 484 second average to pull threat = 115.2 threat/sec
 Obsidian Scimitar of War (Wulfenite Gem) - 5 (3 terror) runs 508.2 second average to pull threat = 109.6 threat/sec
 Stone Etched Mallet (Wulfenite Gem) - 5 (3 terror) runs 554.2 second average to pull threat = 100.5 threat/sec
 BoC (No Aug) - 5 (3 terror) runs 578 second average to pull threat = 96.4 threat/sec
 Edge of Eternity (No Aug) - 5 (3 terror) runs 578.8 second average to pull threat = 96.3 threat/sec
-Short Sword of the Ykesha - 2 (10 terror) runs 3418 second average to pull threat = 54.4 threat/sec
-Blade of Strategy (No Aug) - 2 (10 terror) runs 3601.5 second average to pull threat = 51.6 threat/sec
+Short Sword of the Ykesha (Wulfenite Gem) - 2 (10 terror) runs 2526 second average to pull threat = 73.6 threat/sec
+Blade of Strategy (No Aug) - 2 (10 terror) runs
 
 DW/2H Parses
 Bloodfrenzy (Wulfenite Gem) + BoC (Wulfenite Segment) - 2 (20 terror) runs 2200.5 second average to pull threat = 168.9 threat/sec
