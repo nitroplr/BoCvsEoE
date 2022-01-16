@@ -1,0 +1,2 @@
+/GU An Orator`s army commander in 2933s, 130k @44 | Tentanksx 130k@44 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army commander: -- DMG: 130010 -- DPS: 44 -- Scaled: 44 -- Slash: 129716 -- Environmental: 294 -- % dmg as normal: 83.7% -- % dmg as critical: 16.3% -- Non-crit rate: 89.2% -- crit rate: 10.8% -- Attempts: 6538 -- Hits: 4326 -- Missed: 2212 -- Accuracy: 66.2% -- Avg Hit: 30 -- Max hit: 147 -- DMG to PC: 11153

@@ -1,0 +1,15 @@
+**Darkblade of the Warlord (No Aug) and Bloodfrenzy (Wulfenite Gem), 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
+**4 runs 986.75 second average to pull threat = 188.4 threat/sec
+
+/GU An Orator`s army conscript in 909s, 212k @233 | Tentanksx 212k@233 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 211830 -- DPS: 233 -- Scaled: 233 -- Slash: 211683 -- Environmental: 147 -- % dmg as normal: 82.8% -- % dmg as critical: 17.2% -- Non-crit rate: 89.9% -- crit rate: 10.1% -- Attempts: 2611 -- Hits: 1708 -- Missed: 903 -- Accuracy: 65.4% -- Avg Hit: 124 -- Max hit: 530 -- DMG to PC: 10023
+
+/GU An Orator`s army soldier in 960s, 227k @236 | Tentanksx 227k@236 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 226863 -- DPS: 236 -- Scaled: 236 -- Slash: 226422 -- Environmental: 441 -- % dmg as normal: 81.6% -- % dmg as critical: 18.4% -- Non-crit rate: 89% -- crit rate: 11% -- Attempts: 2730 -- Hits: 1807 -- Missed: 923 -- Accuracy: 66.2% -- Avg Hit: 125 -- Max hit: 530 -- DMG to PC: 14826
+
+/GU An Orator`s army conscript in 1022s, 229k @224 | Tentanksx 229k@224 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 229115 -- DPS: 224 -- Scaled: 224 -- Slash: 228968 -- Environmental: 147 -- % dmg as normal: 84.5% -- % dmg as critical: 15.5% -- Non-crit rate: 89.8% -- crit rate: 10.2% -- Attempts: 2915 -- Hits: 1891 -- Missed: 1024 -- Accuracy: 64.9% -- Avg Hit: 121 -- Max hit: 530 -- DMG to PC: 10023
+
+/GU An Orator`s army conscript in 1056s, 244k @231 | Tentanksx 244k@231 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 244223 -- DPS: 231 -- Scaled: 231 -- Slash: 243929 -- Environmental: 294 -- % dmg as normal: 82.1% -- % dmg as critical: 17.9% -- Non-crit rate: 89.1% -- crit rate: 10.9% -- Attempts: 2980 -- Hits: 2003 -- Missed: 972 -- Defended: 5 -- Accuracy: 67.3% -- Avg Hit: 121 -- Max hit: 530 -- DMG to PC: 12096

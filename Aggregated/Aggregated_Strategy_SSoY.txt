@@ -1,0 +1,9 @@
+**Blade of Strategy (Wulfenite Gem) and Short Sword of the Ykesha (Wulfenite Segment), 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
+**2 runs 1619 second average to pull threat = 114.8 threat/sec
+
+/GU An Orator`s army soldier in 1605s, 210k @131 | Tentanksx 210k@131 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 210361 -- DPS: 131 -- Scaled: 131 -- Slash: 210214 -- Environmental: 147 -- % dmg as normal: 83.6% -- % dmg as critical: 16.4% -- Non-crit rate: 89.8% -- crit rate: 10.2% -- Attempts: 5004 -- Hits: 3365 -- Missed: 1639 -- Accuracy: 67.2% -- Avg Hit: 62 -- Max hit: 210 -- DMG to PC: 7696
+
+/GU An Orator`s army conscript in 1633s, 211k @129 | Tentanksx 211k@129 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 210881 -- DPS: 129 -- Scaled: 129 -- Slash: 210587 -- Environmental: 294 -- % dmg as normal: 83.8% -- % dmg as critical: 16.2% -- Non-crit rate: 89.9% -- crit rate: 10.1% -- Attempts: 5141 -- Hits: 3338 -- Missed: 1803 -- Accuracy: 64.9% -- Avg Hit: 63 -- Max hit: 210 -- DMG to PC: 9312

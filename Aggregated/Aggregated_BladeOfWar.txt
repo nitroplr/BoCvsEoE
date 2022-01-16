@@ -1,0 +1,9 @@
+**Blade of War (Wulfenite Gem), 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
+**2 runs 1226.5 second average to pull threat = 151.5 threat/sec
+
+/GU An Orator`s army conscript in 1208s, 287k @237 | Tentanksx 287k@237 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 287411 -- DPS: 237 -- Scaled: 237 -- Slash: 287264 -- Environmental: 147 -- % dmg as normal: 83.9% -- % dmg as critical: 16.1% -- Non-crit rate: 89.2% -- crit rate: 10.8% -- Attempts: 1713 -- Hits: 1140 -- Missed: 573 -- Accuracy: 66.5% -- Avg Hit: 252 -- Max hit: 667 -- DMG to PC: 10023
+
+/GU An Orator`s army soldier in 1245s, 281k @225 | Tentanksx 281k@225 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 281237 -- DPS: 225 -- Scaled: 225 -- Slash: 281090 -- Environmental: 147 -- % dmg as normal: 81.4% -- % dmg as critical: 18.6% -- Non-crit rate: 87.6% -- crit rate: 12.4% -- Attempts: 1756 -- Hits: 1134 -- Missed: 622 -- Accuracy: 64.6% -- Avg Hit: 248 -- Max hit: 667 -- DMG to PC: 10664

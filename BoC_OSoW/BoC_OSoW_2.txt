@@ -1,0 +1,2 @@
+/GU An Orator`s army conscript in 1219s, 237k @194 | Tentanksx 237k@194 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 236930 -- DPS: 194 -- Scaled: 194 -- Slash: 236783 -- Environmental: 147 -- % dmg as normal: 82.6% -- % dmg as critical: 17.4% -- Non-crit rate: 89.2% -- crit rate: 10.8% -- Attempts: 4742 -- Hits: 3102 -- Missed: 1640 -- Accuracy: 65.4% -- Avg Hit: 76 -- Max hit: 218 -- DMG to PC: 7638

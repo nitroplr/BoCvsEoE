@@ -1,0 +1,9 @@
+**Gnoll Hide Lariat (Wulfenite Gem), stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
+**2 runs 3060 second average to pull threat = 60.7 threat/sec
+
+/GU An Orator`s army commander in 2933s, 130k @44 | Tentanksx 130k@44 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army commander: -- DMG: 130010 -- DPS: 44 -- Scaled: 44 -- Slash: 129716 -- Environmental: 294 -- % dmg as normal: 83.7% -- % dmg as critical: 16.3% -- Non-crit rate: 89.2% -- crit rate: 10.8% -- Attempts: 6538 -- Hits: 4326 -- Missed: 2212 -- Accuracy: 66.2% -- Avg Hit: 30 -- Max hit: 147 -- DMG to PC: 11153
+
+/GU An Orator`s army soldier in 3187s, 136k @42 | Tentanksx 136k@42 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 135562 -- DPS: 42 -- Scaled: 42 -- Slash: 135415 -- Environmental: 147 -- % dmg as normal: 85% -- % dmg as critical: 15% -- Non-crit rate: 89.9% -- crit rate: 10.1% -- Attempts: 6971 -- Hits: 4564 -- Missed: 2407 -- Accuracy: 65.5% -- Avg Hit: 29 -- Max hit: 147 -- DMG to PC: 9816
