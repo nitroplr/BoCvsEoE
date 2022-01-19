@@ -1,18 +1,12 @@
 **EoE primary with no aug, stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
-**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and three terrors worth 18,587 threat each(55,716 total - still 1.5 mins after warrior pulls agro before terror threat falls off and mob switches to the bard) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
-**5 runs 578.8 second average to pull threat = 96.3 threat/sec
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total)
+**3 runs 2242.7 second average to pull threat = 82.9 threat/sec
 
-/GU A Cog Marauder in 554s, 79636 @143 | Tentanksx 79316@143 {X} | Tennisongs 320@0
-/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 79316 -- DPS: 143 -- Scaled: 143 -- Slash: 75110 -- DirDmg: 3825 -- Environmental: 381 -- % dmg as normal: 84.7% -- % dmg as critical: 15.3% -- Non-crit rate: 89.9% -- crit rate: 10.1% -- Attempts: 1232 -- Hits: 785 -- Missed: 413 -- Defended: 34 -- Accuracy: 65.5% -- Avg Hit: 101 -- Max hit: 306 -- DMG to PC: 7810
+/GU An Orator`s army soldier in 2197s, 335k @152 | Tentanksx 335k@152 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 335282 -- DPS: 152 -- Scaled: 152 -- Slash: 335135 -- Environmental: 147 -- % dmg as normal: 84.8% -- % dmg as critical: 15.2% -- Non-crit rate: 90.4% -- crit rate: 9.6% -- Attempts: 4850 -- Hits: 3204 -- Missed: 1646 -- Accuracy: 66.1% -- Avg Hit: 104 -- Max hit: 284 -- DMG to PC: 9816
 
-/GU A Cog Marauder in 564s, 82594 @146 | Tentanksx 81634@144 {X} | Tennisongs 960@1
-/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 81634 -- DPS: 144 -- Scaled: 144 -- Slash: 77913 -- DirDmg: 3213 -- Environmental: 508 -- % dmg as normal: 79.7% -- % dmg as critical: 20.3% -- Non-crit rate: 87.3% -- crit rate: 12.7% -- Attempts: 1232 -- Hits: 773 -- Missed: 418 -- Defended: 41 -- Accuracy: 64.9% -- Avg Hit: 105 -- Max hit: 284 -- DMG to PC: 8315
+/GU An Orator`s army conscript in 2246s, 333k @148 | Tentanksx 333k@148 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 333285 -- DPS: 148 -- Scaled: 148 -- Slash: 333138 -- Environmental: 147 -- % dmg as normal: 84.1% -- % dmg as critical: 15.9% -- Non-crit rate: 89.9% -- crit rate: 10.1% -- Attempts: 4897 -- Hits: 3224 -- Missed: 1673 -- Accuracy: 65.8% -- Avg Hit: 103 -- Max hit: 284 -- DMG to PC: 7638
 
-/GU A Cog Marauder in 575s, 85897 @149 | Tentanksx 84937@147 {X} | Tennisongs 960@1
-/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 84937 -- DPS: 147 -- Scaled: 147 -- Slash: 80783 -- DirDmg: 3519 -- Environmental: 635 -- % dmg as normal: 83% -- % dmg as critical: 17% -- Non-crit rate: 89.2% -- crit rate: 10.8% -- Attempts: 1245 -- Hits: 840 -- Missed: 388 -- Defended: 17 -- Accuracy: 68.4% -- Avg Hit: 101 -- Max hit: 306 -- DMG to PC: 9058
-
-/GU A Cog Marauder in 586s, 83616 @142 | Tentanksx 82656@141 {X} | Tennisongs 960@1
-/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 82656 -- DPS: 141 -- Scaled: 141 -- Slash: 79368 -- DirDmg: 2907 -- Environmental: 381 -- % dmg as normal: 82.4% -- % dmg as critical: 17.6% -- Non-crit rate: 88.4% -- crit rate: 11.6% -- Attempts: 1295 -- Hits: 812 -- Missed: 440 -- Defended: 43 -- Accuracy: 64.9% -- Avg Hit: 101 -- Max hit: 306 -- DMG to PC: 8400
-
-/GU A Cog Marauder in 615s, 53919 @87 | Tentanksx 53279@86 {X} | Tennisongs 640@1
-/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 53279 -- DPS: 86 -- Scaled: 86 -- Slash: 48689 -- DirDmg: 4590 -- % dmg as normal: 83.1% -- % dmg as critical: 16.9% -- Non-crit rate: 89% -- crit rate: 11% -- Attempts: 933 -- Hits: 582 -- Missed: 318 -- Defended: 33 -- Accuracy: 64.7% -- Avg Hit: 91 -- Max hit: 306 -- DMG to PC: 7337
+/GU An Orator`s army conscript in 2285s, 345k @150 | Tentanksx 345k@150 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 344991 -- DPS: 151 -- Scaled: 150 -- Slash: 344697 -- Environmental: 294 -- % dmg as normal: 84.7% -- % dmg as critical: 15.3% -- Non-crit rate: 90.1% -- crit rate: 9.9% -- Attempts: 5085 -- Hits: 3312 -- Missed: 1773 -- Accuracy: 65.1% -- Avg Hit: 104 -- Max hit: 284 -- DMG to PC: 15275

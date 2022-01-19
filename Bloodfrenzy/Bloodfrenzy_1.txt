@@ -1,2 +1,2 @@
-/GU A Cog Marauder in 471s, 54695 @116 | Tentanksx 54375@115 {X} | Tennisongs 320@0
-/tell Tentanksx Tentanksx -vs- A Cog Marauder: -- DMG: 54375 -- DPS: 115 -- Scaled: 115 -- Slash: 52887 -- DirDmg: 980 -- Environmental: 508 -- % dmg as normal: 83% -- % dmg as critical: 17% -- Non-crit rate: 89.1% -- crit rate: 10.9% -- Attempts: 1038 -- Hits: 680 -- Missed: 358 -- Accuracy: 65.5% -- Avg Hit: 79 -- Max hit: 231 -- DMG to PC: 9220
+/GU An Orator`s army conscript in 1646s, 208k @126 | Tentanksx 208k@126 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 208376 -- DPS: 126 -- Scaled: 126 -- Slash: 208229 -- Environmental: 147 -- % dmg as normal: 84.6% -- % dmg as critical: 15.4% -- Non-crit rate: 89.9% -- crit rate: 10.1% -- Attempts: 3657 -- Hits: 2372 -- Missed: 1285 -- Accuracy: 64.9% -- Avg Hit: 87 -- Max hit: 231 -- DMG to PC: 8831
