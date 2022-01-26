@@ -1,0 +1,15 @@
+**Brutish Blade of Balance (No Aug), stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total)
+**4 runs 1403.5 second average to pull threat = 132.4 threat/sec
+
+/GU An Orator`s army conscript in 1328s, 251k @188 | Tentanksx 251k@188 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 250843 -- DPS: 188 -- Scaled: 188 -- Slash: 250696 -- Environmental: 147 -- % dmg as normal: 85.3% -- % dmg as critical: 14.7% -- Non-crit rate: 90.7% -- crit rate: 9.3% -- Attempts: 1839 -- Hits: 1209 -- Missed: 630 -- Accuracy: 65.7% -- Avg Hit: 207 -- Max hit: 590 -- DMG to PC: 9866
+
+/GU An Orator`s army conscript in 1369s, 275k @201 | Tentanksx 275k@201 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army conscript: -- DMG: 275247 -- DPS: 201 -- Scaled: 201 -- Slash: 274953 -- Environmental: 294 -- % dmg as normal: 83.1% -- % dmg as critical: 16.9% -- Non-crit rate: 89.2% -- crit rate: 10.8% -- Attempts: 1940 -- Hits: 1284 -- Missed: 656 -- Accuracy: 66.2% -- Avg Hit: 214 -- Max hit: 590 -- DMG to PC: 11915
+
+/GU An Orator`s army soldier in 1453s, 299k @205 | Tentanksx 299k@205 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 298681 -- DPS: 205 -- Scaled: 205 -- Slash: 298534 -- Environmental: 147 -- % dmg as normal: 84.9% -- % dmg as critical: 15.1% -- Non-crit rate: 90% -- crit rate: 10% -- Attempts: 2098 -- Hits: 1403 -- Missed: 695 -- Accuracy: 66.9% -- Avg Hit: 212 -- Max hit: 590 -- DMG to PC: 10569
+
+/GU An Orator`s army soldier in 1464s, 283k @193 | Tentanksx 283k@193 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 283481 -- DPS: 193 -- Scaled: 193 -- Slash: 283334 -- Environmental: 147 -- % dmg as normal: 84% -- % dmg as critical: 16% -- Non-crit rate: 90.2% -- crit rate: 9.8% -- Attempts: 2004 -- Hits: 1330 -- Missed: 674 -- Accuracy: 66.4% -- Avg Hit: 213 -- Max hit: 590 -- DMG to PC: 10569
