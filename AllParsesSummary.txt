@@ -1,7 +1,9 @@
 1H Parses
 Brutish Blade of Balance (No Aug) - 4 (10 terror) runs 1403.5 second average to pull threat = 132.4 threat/sec
 Darkblade of the Warlord (No Aug) - 2 (10 terror) runs 1464.5 second average to pull threat = 126.9 threat/sec
+Fleshbiter (No Aug) - 4 (10 terror) runs 1512 second average to pull threat = 122.9 threat/sec
 Bloodfrenzy (Wulfenite Gem) - 3 (10 terror) runs 1655 second average to pull threat = 112.3 threat/sec
+Blasphemous Blade of the Exiled (Wulfenite Gem) - 3 (10 terror) runs 1723.67 second average to pull threat = 107.8 threat/sec
 Hategiver (Wulfenite Gem) - 5 (10 terror) runs 1773.2 second average to pull threat = 104.8 threat/sec
 Obsidian Scimitar of War (Wulfenite Gem) - 3 (10 terror) runs 1947.7 second average to pull threat = 95.4 threat/sec
 BoC (Wulfenite Gem) - 3 (10 terror) runs 1964.333 second average to pull threat = 94.6 threat/sec

@@ -1,0 +1,12 @@
+**Blasphemous Blade of the Exiled (Wulfenite Gem), stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total)
+**3 runs 1723.67 second average to pull threat = 107.8 threat/sec
+
+/GU An Orator`s army soldier in 1750s, 231k @132 | Tentanksx 231k@132 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 231074 -- DPS: 132 -- Scaled: 132 -- Slash: 220430 -- DirDmg: 10350 -- Environmental: 294 -- % dmg as normal: 84.8% -- % dmg as critical: 15.2% -- Non-crit rate: 90% -- crit rate: 10% -- Attempts: 4556 -- Hits: 3021 -- Missed: 1535 -- Accuracy: 66.3% -- Avg Hit: 76 -- Max hit: 450 -- DMG to PC: 12872
+
+/GU An Orator`s army soldier in 1699s, 223k @131 | Tentanksx 223k@131 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 222779 -- DPS: 131 -- Scaled: 131 -- Slash: 212732 -- DirDmg: 9900 -- Environmental: 147 -- % dmg as normal: 83.5% -- % dmg as critical: 16.5% -- Non-crit rate: 89.4% -- crit rate: 10.6% -- Attempts: 4439 -- Hits: 2961 -- Missed: 1478 -- Accuracy: 66.7% -- Avg Hit: 75 -- Max hit: 450 -- DMG to PC: 7696
+
+/GU An Orator`s army soldier in 1722s, 225k @130 | Tentanksx 225k@130 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 224552 -- DPS: 130 -- Scaled: 130 -- Slash: 213908 -- DirDmg: 10350 -- Environmental: 294 -- % dmg as normal: 86.1% -- % dmg as critical: 13.9% -- Non-crit rate: 90.3% -- crit rate: 9.7% -- Attempts: 4451 -- Hits: 2933 -- Missed: 1518 -- Accuracy: 65.9% -- Avg Hit: 76 -- Max hit: 450 -- DMG to PC: 17512
