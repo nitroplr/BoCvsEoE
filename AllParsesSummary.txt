@@ -23,3 +23,8 @@ Blade of Carnage (Wulfenite Gem) + Obsidian Scimitar of War (Wulfenite Segment) 
 Stone Etched War Sword (Wulfenite Gem) - 1 (20 terror) run 2893 second average to pull threat = 128.5 threat/sec
 Jagged Blade of War (Wulfenite Gem) - 2 (10 terror) runs 1508 second average to pull threat = 123.3 threat/sec
 Blade of Strategy (Wulfenite Gem) and Short Sword of the Ykesha (Wulfenite Segment) - 2 (10 terror) runs 1619 second average to pull threat = 114.8 threat/sec
+
+Does a max hasted 17 delay weapon swing more often than a 19 delay max hasted weapon? Yes.
+Blasphemous Blade of the Exiled (17 dly) : Average swings per second: 13446 / 5171 = 2.600
+Obsidian Scimitar of War (19 dly) : Average swings / second = 13428 / 5843 = 2.298
+2.298 / 2.6 = .8838 --- Expected: 17 / 19 = .8947
