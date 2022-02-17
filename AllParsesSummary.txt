@@ -19,6 +19,7 @@ DW/2H Parses
 Darkblade of the Warlord (No Aug) + Bloodfrenzy (Wulfenite Gem) - 4 (10 terror) runs 986.75 second average to pull threat = 188.4 threat/sec
 Bloodfrenzy (Wulfenite Gem) + BoC (Wulfenite Segment) - 2 (20 terror) runs 2200.5 second average to pull threat = 168.9 threat/sec
 Blade of War (Wulfenite Gem) - 2 (10 terror) runs 1226.5 second average to pull threat = 151.5 threat/sec
+Blasphemous Blade of the Exiled (Wulfenite Gem) and Hategiver (Wulfenite Segment) - 1 (30 terror) run 3828s second average to pull threat = 145.67 threat/sec
 Blade of Carnage (Wulfenite Gem) + Obsidian Scimitar of War (Wulfenite Segment) - 4 (10 terror) runs 1297.75 second average to pull threat = 143.2 threat/sec
 Vanazir, Dreamer's Despair (No Aug) - 2 (10 terror) runs 1422 second average to pull threat = 130.7 threat/sec
 Stone Etched War Sword (Wulfenite Gem) - 1 (20 terror) run 2893 second average to pull threat = 128.5 threat/sec

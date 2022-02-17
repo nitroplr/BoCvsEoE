@@ -1,0 +1,6 @@
+**Blasphemous Blade of the Exiled (Wulfenite Gem) and Hategiver (Wulfenite Segment), 65 War in era pop stats with 225% haste, all offensive aa's
+**Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 30 terrors worth 18,587 threat each(557,610 total)
+**1 run 3828s second average to pull threat = 145.67 threat/sec
+
+/GU An Orator`s army soldier in 3828s, 778k @203 | Tentanksx 778k@203 {X}
+/tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 778266 -- DPS: 203 -- Scaled: 203 -- Slash: 473551 -- Crush: 279221 -- DirDmg: 25200 -- Environmental: 294 -- % dmg as normal: 84% -- % dmg as critical: 16% -- Non-crit rate: 89.7% -- crit rate: 10.3% -- Attempts: 16373 -- Hits: 10787 -- Missed: 5586 -- Accuracy: 65.9% -- Avg Hit: 72 -- Max hit: 450 -- DMG to PC: 11153
