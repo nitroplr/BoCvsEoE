@@ -6,6 +6,7 @@ Bloodfrenzy (Wulfenite Gem) - 3 (10 terror) runs 1655 second average to pull thr
 Blasphemous Blade of the Exiled (Wulfenite Gem) - 3 (10 terror) runs 1723.67 second average to pull threat = 107.8 threat/sec
 Hategiver (Wulfenite Gem) - 5 (10 terror) runs 1773.2 second average to pull threat = 104.8 threat/sec
 Obsidian Scimitar of War (Wulfenite Gem) - 3 (10 terror) runs 1947.7 second average to pull threat = 95.4 threat/sec
+Bloodfrenzy (No Aug) - 1 (30 terror) run 5814 second average to pull threat = 95.9 threat/sec
 Death's Head Mace (No Aug) - 1 (15 terror) run 2926 second average to pull threat = 95.3 threat/sec
 BoC (Wulfenite Gem) - 3 (10 terror) runs 1964.333 second average to pull threat = 94.6 threat/sec
 Blade of Strategy (Wulfenite Gem) - 2 (10 terror) runs 2120 second average to pull threat = 87.7 threat/sec

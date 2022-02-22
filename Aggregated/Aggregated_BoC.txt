@@ -1,6 +1,7 @@
 **Blade of Carnage (Wulfenite Gem), stat doll secondary, 65 War in era pop stats with 225% haste, all offensive aa's
 **Using a 115 shadowknight with only cs/ca aa's, 0 defensive procs, 0 hate mods, and 10 terrors worth 18,587 threat each(185,870 total) - Death's Effigy and bard offtank(grouped with warrior for haste/atk) used at the start to ensure 0 threat
 **3 runs 1964.333 second average to pull threat = 94.6 threat/sec
+**12975 / 5893 = 2.2 swings / second
 
 /GU An Orator`s army soldier in 1932s, 232k @120 | Tentanksx 232k@120 {X}
 /tell Tentanksx Tentanksx -vs- An Orator`s army soldier: -- DMG: 232087 -- DPS: 120 -- Scaled: 120 -- Slash: 231793 -- Environmental: 294 -- % dmg as normal: 83.1% -- % dmg as critical: 16.9% -- Non-crit rate: 89.2% -- crit rate: 10.8% -- Attempts: 4248 -- Hits: 2761 -- Missed: 1487 -- Accuracy: 65% -- Avg Hit: 84 -- Max hit: 218 -- DMG to PC: 12423
