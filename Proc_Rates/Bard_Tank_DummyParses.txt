@@ -1,0 +1,26 @@
+65 Bard and 65 Warrior in group together max hasted both using Edge of Eternity primary with a no swing offhand.  The tank has 6 more hdex than the bard.  Bard has weapon affinity 5 for 50% extra procs.
+
+/GU Test Ten in 3956s, 1655k @418 | Tentanksx 986k@249 | Blastoffexe 669k@169
+/tell Blastoffexe Blastoffexe -vs- Test Ten: -- DMG: 669373 -- DPS: 169 -- Scaled: 169 -- Slash: 607319 -- DirDmg: 61650 -- Kick: 404 -- % dmg as normal: 90% -- % dmg as critical: 10% -- Non-crit rate: 94% -- crit rate: 6% -- Attempts: 4962 -- Hits: 4962 -- Accuracy: 100% -- Avg Hit: 134 -- Max hit: 450 -- DMG to PC: 0
+261 Procs = 3.95 ppm
+
+Used reset aa on Bard to compare Bard proc rate to Warrior's Using EoE accurately.
+/GU Test Fifteen in 2329s, 571k @244 | Tentanksx 571k@244
+/tell Tentanksx Tentanksx -vs- Test Fifteen: -- DMG: 570579 -- DPS: 244 -- Scaled: 244 -- Slash: 553290 -- DirDmg: 17289 -- % dmg as normal: 84.2% -- % dmg as critical: 15.8% -- Non-crit rate: 90% -- crit rate: 10% -- Attempts: 5224 -- Hits: 4687 -- Missed: 537 -- Accuracy: 89.7% -- Avg Hit: 121 -- Max hit: 306 -- DMG to PC: 0
+102 procs = 2.62 ppm
+
+/GU Test Fifteen in 2445s, 606k @248 | Tentanksx 606k@248
+/tell Tentanksx Tentanksx -vs- Test Fifteen: -- DMG: 606402 -- DPS: 248 -- Scaled: 248 -- Slash: 590337 -- DirDmg: 16065 -- % dmg as normal: 83.7% -- % dmg as critical: 16.3% -- Non-crit rate: 89.8% -- crit rate: 10.2% -- Attempts: 5530 -- Hits: 4966 -- Missed: 564 -- Accuracy: 89.8% -- Avg Hit: 122 -- Max hit: 306 -- DMG to PC: 0
+102 = 2.5 ppm
+
+/GU Test Ten in 2159s, 558k @258 | Tentanksx 558k@258
+/tell Tentanksx Tentanksx -vs- Test Ten: -- DMG: 558393 -- DPS: 258 -- Scaled: 258 -- Slash: 540339 -- DirDmg: 18054 -- % dmg as normal: 83% -- % dmg as critical: 17% -- Non-crit rate: 89.3% -- crit rate: 10.7% -- Attempts: 4819 -- Hits: 4466 -- Missed: 353 -- Accuracy: 92.7% -- Avg Hit: 125 -- Max hit: 306 -- DMG to PC: 0
+105 procs = 2.91
+
+/GU Test Ten in 2441s, 336k @137 | Blastoffexe 336k@137
+/tell Blastoffexe Blastoffexe -vs- Test Ten: -- DMG: 335694 -- DPS: 137 -- Scaled: 137 -- Slash: 306444 -- DirDmg: 29250 -- % dmg as normal: 91.7% -- % dmg as critical: 8.3% -- Non-crit rate: 94.8% -- crit rate: 5.2% -- Attempts: 3100 -- Hits: 3100 -- Accuracy: 100% -- Avg Hit: 108 -- Max hit: 450 -- DMG to PC: 0
+121 procs = 2.97 ppm
+
+/GU Test Fifteen in 2153s, 276k @128 | Blastoffexe 276k@128
+/tell Blastoffexe Blastoffexe -vs- Test Fifteen: -- DMG: 275945 -- DPS: 128 -- Scaled: 128 -- Slash: 252695 -- DirDmg: 23250 -- % dmg as normal: 91.5% -- % dmg as critical: 8.5% -- Non-crit rate: 95% -- crit rate: 5% -- Attempts: 2578 -- Hits: 2578 -- Accuracy: 100% -- Avg Hit: 107 -- Max hit: 450 -- DMG to PC: 0
+87 procs = 2.42 ppm
