@@ -1,0 +1,2 @@
+/GU Test Eighty in 1059s, 227k @214 | Blastoffexe 227k@214
+/tell Blastoffexe Blastoffexe -vs- Test Eighty: -- DMG: 227284 -- DPS: 214 -- Scaled: 214 -- Slash: 203634 -- DirDmg: 23650 -- % dmg as normal: 92.8% -- % dmg as critical: 7.2% -- Non-crit rate: 96% -- crit rate: 4% -- Attempts: 2765 -- Hits: 1885 -- Missed: 880 -- Accuracy: 68.2% -- Avg Hit: 120 -- Max hit: 450 -- DMG to PC: 0
