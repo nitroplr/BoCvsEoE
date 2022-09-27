@@ -1,0 +1,10 @@
+Level 70 SK with Aged Left Eye in primary, shield secondary
+Test One Hundred Three  in 5576s, 4.44M Tanked @796, 1. Blastske = 4.44M
+
+Same with Jagged Pureblade primary and attack on
+Test One Hundred Three  in 5503s, 3.99M Tanked @725, 1. Blastske = 3.99M
+
+Jagged Pureblade attack off
+Test One Hundred Three  in 2743s, 1.99M Tanked @723, 1. Blastske = 1.99M
+
+NPC's do not riposte against their target.
