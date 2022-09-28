@@ -1,0 +1,8 @@
+70 Bard 225% Haste
+Test Eighty in 1849s, 708.27K Damage @383, 1. Blastoffexe = 708.27K@383 in 1849s
+
+With 225% Haste and War March - 2.6% gain
+Test Eighty in 3237s, 1.27M Damage @393, 1. Blastoffexe = 1.27M@393 in 3237s
+
+With 225% Haste and Storm Blade - 26.1% gain
+Test Eighty in 3369s, 1.75M Damage @518, 1. Blastoffexe = 1.75M@518 in 3369s
