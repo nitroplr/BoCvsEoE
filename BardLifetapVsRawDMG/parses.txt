@@ -1,0 +1,11 @@
+70 Bard 16 HDEX Lightning Prism of Swordplay - 225% Haste Dragonkiller - War March, SoB, Overhaste
+Test Ten in 2085s, 774.86K Damage @371, 1. Blastoffexexex = 774.86K@371 in 2085s
+
+Dragonkiller with Life Sap II 125 Point lifetap aug
+Test Ten in 2238s, 797.38K Damage @356, 1. Blastoffexexex = 797.38K@356 in 2238s
+
+Cogblaster with Life Sap II aug
+Test Ten in 9018s, 3.40M Damage @377, 1. Blastoffexexe = 3.40M@377 in 9018s
+
+Notched Blade of Bloodletting Life Sap II aug
+Test Ten in 3237s, 1.14M Damage @351, 1. Blastoffexexe = 1.14M@351 in 3237s
