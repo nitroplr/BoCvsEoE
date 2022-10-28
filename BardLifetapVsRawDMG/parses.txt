@@ -9,3 +9,6 @@ Test Ten in 9018s, 3.40M Damage @377, 1. Blastoffexexe = 3.40M@377 in 9018s
 
 Notched Blade of Bloodletting Life Sap II aug
 Test Ten in 3237s, 1.14M Damage @351, 1. Blastoffexexe = 1.14M@351 in 3237s
+
+Hammer of Rancorous Thoughts Life Sap II aug
+Test Ten in 4s, 1.41K Damage @353, 1. Blastoffexexexe = 1.41K@353 in 4s
