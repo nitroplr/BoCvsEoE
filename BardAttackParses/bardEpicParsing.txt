@@ -1,0 +1,27 @@
+SOB click, overhaste and atk song
+
+No Bard Epic Buff
+Test Eighty Five in 6358s, 2.45M Damage @385, 1. Blastoffexexex = 2.45M@385 in 6358s 9.2% crit rate
+
+With Bard Epic Buff - 7.1% increase
+Test Eighty Five in 7735s, 3.20M Damage @414, 1. Blastoffexexex = 3.20M@414 in 7735s 9.03% crit rate
+
+Shaman Epic Buff Only - 9.5% increase
+Test Eighty Five in 7272s, 3.10M Damage @425, 1. Blastoffexexex = 3.10M@425 in 7272s 10.37% crit rate
+
+Bard and Shaman Epic Buffs - 15.1%
+Test Eighty Five in 7312s, 3.32M Damage @453, 1. Blastoffexexex = 3.32M@453 in 7312s 10.05% crit rate
+
+64 auto granted Wizard
+No Bard Epic Buff
+Test Ten in 2337s, 1.20M Damage @514, 1. Blastoffe = 1.20M@514 in 2337s 16.49% crit rate
+
+With Bard Epic Buff - 17.3% increase
+Test Ten in 2020s, 1.26M Damage @621, 1. Blastoffe = 1.26M@621 in 2020s 31.79% crit rate
+
+115 Wizard
+No Bard Epic Buff
+Test Ten in 3325s, 1.33B Damage @401.27K, 1. Blastoffexex = 1.33B@401.27K in 3325s 78.3% crit rate
+
+With Bard Epic Buff - 12.6% DPS increase
+Test Ten in 1447s, 664.25M Damage @459.05K, 1. Blastoffexex = 664.25M@459.05K in 1447s 89.9% crit rate
