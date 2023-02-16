@@ -1,7 +1,13 @@
-75 Bard with Aura, War March, Stormblade and SotI offhand
+75 Bard with Aura, War March, Stormblade, SoB click, and SotI offhand
 
 Cogblaster MH - no aug
 Test Twenty in 765s, 444.64K Damage @581, 1. Blastoffexex = 444.64K@581 in 765s
 
 Cudgel of Unified Visions MH - no aug
 Test Twenty in 1032s, 665.21K Damage @644
+
+Cogblaster MH - no aug - with Jonthan's Mightful Caretaker (60.4% increase)
+Test Twenty in 776s, 723.95K Damage @932, 1. Blastoffexex = 723.95K@932 in 776s
+
+Cudgel of Unified Visions MH - no aug - with Jonthan's Mightful Caretaker (61.4% increase)
+Test Twenty in 806s, 838.91K Damage @1.04K, 1. Blastoffexex = 838.91K@1.04K in 806s
