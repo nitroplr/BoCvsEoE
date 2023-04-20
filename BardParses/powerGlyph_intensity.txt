@@ -1,0 +1,8 @@
+Bard with Epic, Thousand Blades, War March, Storm Blade, Aura, Symphony, Anguish BP, Dance of Blades
+Test Ten in 621s, 1.35M Damage @2.18K, 1. Blastoffexexex = 1.35M@2.18K in 621s
+
+Bard with Epic, POWER GLYPH, Thousand Blades, War March, Storm Blade, Aura, Symphony, Anguish BP, Dance of Blades
+Test Ten in 124s, 292.5K Damage @2.36K, 1. Blastoffexexex = 292.5K@2.36K in 124s {G} - 7.7% DPS increase
+
+Bard with Epic, INTENSITY, Thousand Blades, War March, Storm Blade, Aura, Symphony, Anguish BP, Dance of Blades
+Test Ten in 729s, 2.25M Damage @3.08K, 1. Blastoffexexex = 2.25M@3.08K in 729s {7} - 29.3% DPS increase
