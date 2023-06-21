@@ -1,0 +1,10 @@
+Necro Pet w/ sigil of the unnatural No Weapons
+Test Ten in 90s, 44.32K Damage @492, 1. Badot = 44.32K@492 in 90s
+
+Necro Pet w/ sigil of the unnatural and 1x intricate defiant handwraps (1H)
+Test Ten in 92s, 38.50K Damage @418, 1. Badot = 38.50K@418 in 92s
+
+Necro Pet w/ sigil of the unnatural and 1x intricate defiant handwraps and 1x intricate defiant katana (1H)
+Test Ten in 91s, 34.70K Damage @381, 1. Badot = 34.70K@381 in 91s
+
+Pet doesn't take 2h weapons
