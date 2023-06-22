@@ -14,3 +14,16 @@ Necro Pet w/ sigil of the unnatural and 2x summoned: Searing Torch (1H)
 Test Ten in 90s, 42.68K Damage @474, 1. Badot = 42.68K@474 in 90s
 
 Pet doesn't take 2h weapons
+
+
+Necro Pet w/ sigil of the unnatural No Weapons
+Test Ten in 451s, 197.50K Damage @437, 1. Badot = 197.50K@437 in 451s
+
+Necro Pet w/ sigil of the unnatural and 1x intricate defiant scimitar (1H)
+Test Ten in 972s, 434.02K Damage @446, 1. Badot = 434.02K@446 in 972s
+
+Necro Pet w/ sigil of the unnatural and 1x summoned: Searing Torch (1H)
+Test Ten in 1406s, 646.43K Damage @459, 1. Badot = 646.43K@459 in 1406s
+
+Necro Pet w/ sigil of the unnatural and 2x summoned: Searing Torch (1H)
+Test Ten in 1360s, 626.19K Damage @460, 1. Badot = 626.19K@460 in 1360s
