@@ -1,0 +1,13 @@
+Ethereal fire / cold only
+Test Ten in 240s, 864.77K Damage @3.60K, 1. Blastone = 864.77K@3.60K in 240s
+
+Flashflames(Rime snap is cold equivalent - Cloudburst Bolts is instant magic except no chance to buff spell damage) --> Ethereal fire --> Ethereal cold
+Test Ten in 219s, 943.90K Damage @4.31K, 1. Blastone = 943.90K@4.31K in 219s
+
+Wildmagic Burst --> Eth Fire --> Eth cold
+Test Ten in 325s, 1.20M Damage @3.70K, 1. Blastone = 1.20M@3.70K in 325s
+
+Tangleweave Energy --> Eth Fire
+Test Ten in 333s, 1.14M Damage @3.41K, 1. Blastone = 1.14M@3.41K in 333s
+
+
