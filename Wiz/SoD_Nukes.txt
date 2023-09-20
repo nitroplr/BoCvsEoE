@@ -6,8 +6,8 @@ Ethereal Combustion - 4.4dpm - 1,900.7dps (2,613.5dps after spell haste)
 Ethereal Iceblight - 4.6dpm - 1,827.2dps
 Wildmagic Blast - Expected DMG: 3,299.65 - 9.3dpm - 1,466.5dps
 Wildmagic Burst Rk II - Expected DMG: 2,870.475 - 8.7dpm - 1,275.7dps
-Klixcxyk's Fire - 5.5dpm - 1,225.5dps (1,685dps after spell haste)
 Thricewoven energy - 5.6dpm - 1,144.4dps (1,589.4 after spell haste)
+Klixcxyk's Fire - 5.5dpm - 1,225.5dps (1,685dps after spell haste)
 Ribbon Lightning - 5.73dpm - 1.16kdps
 Chaos Combustion - 6.3dpm - 1.1kdps
 Leap of Static Jolts - 4.9dpm - 1,071.5dps
