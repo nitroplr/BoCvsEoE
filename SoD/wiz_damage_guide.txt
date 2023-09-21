@@ -1,0 +1,28 @@
+I did some parsing of all of our relavent nukes and the efficient rotation hasn't changed much since  sof...here is the parsing of our viable nukes then I'll explain my rotation.
+
+Gelid Snap / Flashblaze Rk II - 4.9 dpm - 4,321.3dps - 1.6k sd buff
+Cloudburst Levin Rk II - 4dpm - 4,620dps
+Ethereal Combustion - 4.4dpm - 1,900.7dps (2,613.5dps after spell haste)
+Ethereal Iceblight - 4.6dpm - 1,827.2dps
+Wildmagic Blast - Expected DMG: 3,299.65 - 9.3dpm - 1,466.5dps
+Wildmagic Burst Rk II - Expected DMG: 2,870.475 - 8.7dpm - 1,275.7dps
+Thricewoven energy - 5.6dpm - 1,144.4dps (1,589.4 after spell haste)
+Klixcxyk's Fire - 5.5dpm - 1,225.5dps (1,685dps after spell haste)
+Ribbon Lightning - 5.73dpm - 1.16kdps
+Chaos Combustion - 6.3dpm - 1.1kdps
+Leap of Static Jolts - 4.9dpm - 1,071.5dps
+Mindfreeze - 8.3dpm - 640dps
+Claw of Gorenaire - 7.7dpm - 799.3dps
+
+I have two multibinds (alt o then spell casting and set the gems to the same button)...one key to press for my efficient nukes and one to press for ethereals.  The efficient keybind is also macroed to a single macro on my hotbar.  This macro always has /alt activate 1154 on it for Force of Will.  Use this during the 1.5 second casting gcd for a no dps loss 10dpm nuke.  This will happen naturally if you are mashing this multibind. Sometimes that macro also has /assist main and /attack on on it.  The /attack on is free damage right now but in later eras, wiz melee procs are actually really strong and gets effected by our burns.
+
+The efficient multibind is gelid snap preferably (cryomancy does more damage) since it's a good balance of dps and efficiency.  Second is wildmagic blast.  Third is wildmagic burst.  Fourth is chaos combustion.  All of these nukes are fast (more procs), high dpm (more sustain), and have at least a -50 check on them.  The second multibind you need is Ethereal Fire and Ethereal Cold.
+
+Use the efficient lineup to fish for GoM procs.  'You have been granted gift of mana!' is the audio trigger you should have setup in game (not gina its slow and you will mess up and consume gom with an efficient nuke).  Every GoM proc should be spent on an ethereal.
+
+Your burn rotation is the instant nuke first (highest dps), into two ethereals.  Every fight is a game to budget your mana with the efficient rotation without ending the fight with an excess.  Use the burn rotation with twincast.  Always pair Frenzied Devastation with a robe click since it increases the mana cost by 70%.
+
+10 Minute Burns: Spire, Focus of Arcanum, Call of Xuzl
+30 Minute Burns: Above + Fury of the Gods
+1 Hour Burns: Above + Frenzied Devastation
+4 Hour Burns: Above + Intensity of the Resolute
