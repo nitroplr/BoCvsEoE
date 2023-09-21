@@ -1,4 +1,4 @@
-I did some parsing of all of our relavent nukes and the efficient rotation hasn't changed much since  sof...here is the calculator work for our viable nukes then I'll explain my rotation.
+I did some math for all of our relavent nukes and the efficient rotation hasn't changed much since  sof...here is the calculator work for our viable nukes then I'll explain my rotation.
 
 Gelid Snap / Flashblaze Rk II - 4.9 dpm - 4,321.3dps - 1.6k sd buff
 Cloudburst Levin Rk II - 4dpm - 4,620dps
