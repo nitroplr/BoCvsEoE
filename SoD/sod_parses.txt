@@ -6,3 +6,8 @@ Test Ten in 4466s, 22.40M Damage @5.02K, 1. Blastonx = 22.40M@5.02K in 4466s
 
 Gelid snap, wildmagic blast, wildmagic burst, Chaos Combustion
 Test Ten in 2637s, 11.94M Damage @4.53K, 1. Blastonx = 11.94M@4.53K in 2637s
+
+85 Wiz full burn Spider's Bite
+Spider's Bite XIII - 20k crit, 3.6k no crit
+Spider's Bite XIV - 22k crit
+Spider's Bite XV - 24k crit, 4.3k no crit
