@@ -11,3 +11,19 @@ Test Ten in 2637s, 11.94M Damage @4.53K, 1. Blastonx = 11.94M@4.53K in 2637s
 Spider's Bite XIII - 20k crit, 3.6k no crit
 Spider's Bite XIV - 22k crit
 Spider's Bite XV - 24k crit, 4.3k no crit
+
+
+
+10/14 With Bis Focus Effects
+Cloudburst Levin Rk II, Ethereal Combustion, Ethereal Iceblight Rk II
+Test Sixty in 1909s, 17.61M Damage @9.22K, 1. Blastonx = 17.61M@9.22K in 1909s
+
+Gelid Snap Rk II, Ethereal Combustion, Ethereal Iceblight Rk II
+Test Sixty in 1449s, 13.64M Damage @9.41K, 1. Blastonx = 13.64M@9.41K in 1449s
+
+Cloudburst Levin Rk II, Wildmagic Blast Rk II, Wildmagic Burst Rk II, Chaos Combustion
+Test Sixty in 1606s, 12.52M Damage @7.80K, 1. Blastonx = 12.52M@7.80K in 1606s
+
+Gelid Snap Rk II, Wildmagic Blast Rk II, Wildmagic Burst Rk II, Chaos Combustion
+Test Sixty in 1953s, 10.73M Damage @5.49K, 1. Blastonx = 10.73M@5.49K in 1953s
+
