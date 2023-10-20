@@ -22,7 +22,7 @@ Use the efficient lineup to fish for GoM procs.  'You have been granted gift of 
 
 Your burn rotation is the instant nuke first (highest dps), into two ethereals.  Every fight is a game to budget your mana with the efficient rotation without ending the fight with an excess.  Use the burn rotation with twincast.  Always pair Frenzied Devastation with a robe click since it increases the mana cost by 70%.
 
-10 Minute Burns: Spire, Focus of Arcanum, Call of Xuzl
+10 Minute Burns: Spire, Focus of Arcanum
 30 Minute Burns: Above + Fury of the Gods
 1 Hour Burns: Above + Frenzied Devastation
 4 Hour Burns: Above + Intensity of the Resolute
