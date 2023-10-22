@@ -1,0 +1,5 @@
+Shift + Ctrl + Alt + G - Control Pannel
+Shift + Alt + R - Broadcast Keys
+Shift + Alt + M - Turn Off Key Maps
+Alt + F - Follow Me
+Alt + A - Assist Me
