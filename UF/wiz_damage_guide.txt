@@ -13,7 +13,7 @@ Both multibinds should also trigger a single hotkey containing the Force of Will
 5 min burns - Twincast
 Pop all burns available to the time limit when burning.  Always use the SoD robe click with Frenzied Devastation since it increases mana cost and the robe GoM 8 charge click works on the cold ethereal.
 
-Aggro Reduction - Silent casting before big burns.  Arcane whisper is broken and doesn't reduce threat, don't waste AA's.  Mindfreeze is the best payout for the dps loss.  If more threat reduction is needed use Concussive Flash or the Mind Crash AA.  Use a hole in space to drop all threat.
+Aggro Reduction - Silent casting before big burns.  Arcane whisper is broken and doesn't reduce threat, don't waste AA's.  Mindfreeze is the best payout for the dps loss.  If more threat reduction is needed use Concussive Flash or the Mind Crash AA.  Use A Hole in Space to drop all threat.
 
 Recovering from death - get an XP rez (preferably not call) so you can go above 18% mana.  Pop Serene Harvest, Druzzil Harvest, Force Rejuvenation and another Serene Harvest.
 
