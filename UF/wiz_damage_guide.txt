@@ -1,0 +1,22 @@
+Splash of brimstone is our best nuke at 14dpm and almost triple the damage of an ethereal even versus 1 target.  Use it on cd, not part of the multibinds since it is free cast.  Hitting it with more targets can gain an extra 2 hits.
+
+Use two multibinds, one that goes Malediction --> Gelid Snap --> Wildmagic Blast --> Wildmagic Burst.  Gelid snap is way higher dps than ethereals and a little bit better dpm.  Wildmagics are twice the dpm of Ethereals, and you use these to proc gift of mana.  When GoM procs or you have an excess of mana, use the next multibind.
+
+The second multibind is top dps but inefficient used for an excess of mana or gift of mana procs.  Malediction --> gelid snap-->cold ethereal-->fire ethereal.  Use the Keypress and Alternate columns under Alt-O, Keys tab, Spell Casting category to setup two keys that overlap some of the binds.
+
+Both multibinds should also trigger a single hotkey containing the Force of Will AA.  More AA nukes will get added later.
+
+4 hour burns - Intensity
+42 min burns - Frenzied Devastation
+30 min burns - Fury of the Gods (this increases the base damage of sympathetic procs, you want as many sympathetic procs as possible - augs in primary, secondary, and shield (or omm shield, aug does not fit in omm shield)), UF Shawl
+10 min burns - Focus of Arcanum, Spire of Arcanum
+5 min burns - Twincast
+Pop all burns available to the time limit when burning.  Always use the SoD robe click with Frenzied Devastation since it increases mana cost and the robe GoM 8 charge click works on the cold ethereal.
+
+Aggro Reduction - Silent casting before big burns.  Arcane whisper is broken and doesn't reduce threat, don't waste AA's.  Mindfreeze is the best payout for the dps loss.  If more threat reduction is needed use Concussive Flash or the Mind Crash AA.  Use a hole in space to drop all threat.
+
+Recovering from death - get an XP rez (preferably not call) so you can go above 18% mana.  Pop Serene Harvest, Druzzil Harvest, Force Rejuvenation and another Serene Harvest.
+
+Consumables - Tonic of Resonant Elemental XIII or XIV for an extra sympathetic proc.  Tonic of Gelid Affinity VIII and Tonic of Heat Affinity VIII.
+
+Mana Burn is garbage until TBM.  Ethereals hit harder.  Don't waste aa's.
