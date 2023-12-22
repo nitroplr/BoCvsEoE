@@ -8,7 +8,7 @@ Both multibinds should also trigger a single hotkey containing the Force of Will
 
 4 hour burns - Intensity
 42 min burns - Frenzied Devastation
-30 min burns - Fury of the Gods (this increases the base damage of sympathetic procs, you want as many sympathetic procs as possible - augs in primary, secondary, and shield (or omm shield, aug does not fit in omm shield)), UF Shawl
+30 min burns - Fury of the Gods (this increases the base damage of sympathetic procs, you want as many sympathetic procs as possible - augs in primary, secondary, and shield (or omm shield, aug does not fit in omm shield)), UF Shawl, Sympathetic dd weapon - use fire/cold/magic for the augs so they can proc Trificurating Magic.
 10 min burns - Focus of Arcanum, Spire of Arcanum
 5 min burns - Twincast
 Pop all burns available to the time limit when burning.  Always use the SoD robe click with Frenzied Devastation since it increases mana cost and the robe GoM 8 charge click works on the cold ethereal.
