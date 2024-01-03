@@ -1,0 +1,7 @@
+Burns: FoTG - Spire - Focus of Arcanum
+Spells: Gelid Snap --> Wildmagic Blast --> Wildmagic Burst
+Test Sixty in 1441s, 25.76M Damage @17.88K, 1. Blastonx = 25.76M@17.88K in 1441s
+
+Burns: FoTG - Spire - Focus of Arcanum
+Spells: Gelid Snap --> Ethereal Iceblight --> Ethereal Combustion
+Test Sixty in 938s, 18.21M Damage @19.41K, 1. Blastonx = 18.21M@19.41K in 938s

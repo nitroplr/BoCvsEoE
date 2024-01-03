@@ -1,0 +1,5 @@
+Malediction --> Gelid --> Cold Eth --> Fire Eth
+Test Fifty in 2710s, 28.84M Damage @10.64K, 1. Blastonx = 28.84M@10.64K in 2710s
+
+Gelid --> Cold Eth --> Fire Eth
+Test Fifty in 1987s, 20.65M Damage @10.39K, 1. Blastonx = 20.65M@10.39K in 1987s
