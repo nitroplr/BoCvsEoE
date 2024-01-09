@@ -1,0 +1,28 @@
+Hey Druids, now that you guys are coming into your own as an amazing caster DPS/ADPS I thought I would talk about the burns a bit.  The goal is always high uptime on burns to make the night go faster, especially with burns like Group Spirit of the Great Wolf where you can have a 40% uptime on it since its such a long burn and with a short CD.  Spire of Nature is also a 10 min cd, so should also be used a lot in a raid night.  Really every time you guys see a bard epic go out is a decent enough time to hit your 10 minute burns.  If you know a tough phase is coming up holding them is fine, but it is best 90% of the time to just hit the stuff on cd with a bard epic.  And if popping burns is too much work for you, just macro it to your heals so they're at least getting used.  Spire and Group Spirit of the Great Wolf should be used together since they stack.  These two spells with a bard epic and enchanter spire has casters pretty close to 100% crit which means almost a 100% chance to hit for 8-10x an uncritted spell.  Throw in an MGB Auspice and we are over 100% chance to crit.
+
+With you guys always being in stacked ADPS groups, you really have a chance to do some amazing damage.  My Druid's dps multibind (set all nukes to the same button under Alt-O and Spell Casting) on raids goes Twincast (Should probably be micro managed but he's a box) --> Remote Manaflux (How often do you really need to heal more than this?  You are way better dps than clerics and shamans so if tank healing is good, have some fun.  You can pull close to mage DPS.) --> Nature's Searing Wrath --> Winter's Flare --> Summer Solstice --> Morning's Glory
+
+The Nuke Mash Key - A single social that has the hotbar slot bound to the same button as your spell multibind so that these aa abilities will fire passively during the 1.5 second GCD if you are pressing the button when your spell cast ends:
+1 Minute CD - 1 Minute Duration 1 - 768 - Season's Wrath - 10.5% increased fire/cold damage taken
+954 - Nature's Fire - .1 Sec cast very high dpm nuke
+956 - Nature's Frost - .1 Sec cast very high dpm nuke
+3728 - Nature's Bolt - .1 Sec cast very high dpm nuke
+
+I used to have Blessing of Ro (935) macroed to this, but it gets casted way too often and consumes mana.  This should be on every mob you can put it on since it lowers FR, AC, and ATK.
+
+The Heal Multibind (3 heal spells macroed to a different button than nukes) is just Sundew Blessing --> Adrenaline Burst --> Granvida
+
+The Heal Mash Key - Same setup as the nuke mash except it gets macroed to your heal multibind.  Just /alt activate 170 for a free 11k damage damage shield that you don't have to think about.
+
+Self Only Burns:
+8 Min CD - 1092 - Spirit of the Great Wolf - 2 Mins decreased mana cost - Increased heal and crit chance - Increased crit damage
+4 Hours - 487 - Intensity of the Resolute - OP
+
+Group ADPS Burns:
+10 Min CD - 1480 - Spire of Nature - 1.5 Mins Increased Healing - 21% Crit DD Chance
+8 Min CD - 10397 - Group Spirit of the Great Wolf - 3 Mins (Extended by buff extension) - Reduced mana cost - 4% crit chance - 60% stronger crits
+10 Min CD - 8603 - Spirit of Nature - Swarm Pet - Makes mages in the raid do more damage with the of many line
+22 Min CD - 520 - Nature's Guardian - Swarm Pet - Makes mages in the raid do more damage with the of many line
+
+
+
