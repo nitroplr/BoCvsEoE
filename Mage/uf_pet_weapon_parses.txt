@@ -1,0 +1,21 @@
+Water Pet With Iceflam Efflux, Burnout, Arcane Dissilect
+Attunable UF Group Weapons
+Test Ten in 229s, 460.32K Damage @2.01K, 1. Utopian = 460.32K@2.01K in 229s
+
+No Weapons
+Test Ten in 111s, 219.96K Damage @1.98K, 1. Utopian = 219.96K@1.98K in 111s
+
+Summoned Weapons
+Test Ten in 188s, 376.65K Damage @2.00K, 1. Utopian = 376.65K@2.00K in 188s
+
+Summoned Weapons Spell Hold
+Test Ten in 133s, 250.15K Damage @1.88K, 1. Utopian = 250.15K@1.88K in 133s
+
+Fire Pet No Weapons
+Had to manually move into melee range - only about 1k dps not worth parsing
+
+Air Pet No Weapons
+Test Ten in 126s, 202.21K Damage @1.60K, 1. Utopian = 202.21K@1.60K in 126s
+
+Earth Pet No Weapons
+Test Ten in 131s, 159.58K Damage @1.22K, 1. Utopian = 159.58K@1.22K in 131s

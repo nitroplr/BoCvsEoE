@@ -1,0 +1,13 @@
+Buffs
+    Wizard - Intensity, FotG, Spire, Focus of Arcanum, Resonant Elemental VI, Familiar
+    Druid - Spire, Group Wolf Form
+    Bard - Epic, Aura, Fire / Cold / Fire Focus Damage, 1 Arcane per rotation
+    Enchanter - Twincast Aura, Reiterate Aura, Spire
+Gelid Snap --> Cold Ethereal --> Fire Ethereal
+Test Seventy Five in 1474s, 75.01M Damage @50.89K, 1. Blastonx = 75.01M@50.89K in 1474s
+
+Gelid Snap --> Wildmagic --> Wildmagic
+Test Seventy Five in 542s, 26.57M Damage @49.02K, 1. Blastonx = 26.57M@49.02K in 542s
+
+Gelid Snap --> Cold Ethereal --> Fire Ethereal Bard Fire / Cold / Magic Focus Removed
+Test Seventy Five in 779s, 40.13M Damage @51.51K, 1. Blastonx = 40.13M@51.51K in 779s

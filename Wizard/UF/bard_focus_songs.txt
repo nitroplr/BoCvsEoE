@@ -1,0 +1,11 @@
+Buffs
+    Wizard - Familiar
+    Bard - Fire / Cold / Fire Focus Damage
+Gelid Snap --> Cold Ethereal --> Fire Ethereal
+Test Seventy Five in 2810s, 31.26M Damage @11.12K, 1. Blastonx = 31.26M@11.12K in 2810s
+
+Gelid Snap --> Cold Ethereal --> Fire Ethereal Bard Fire / Cold / Magic Focus Removed
+Test Seventy Five in 2685s, 29.15M Damage @10.86K, 1. Blastonx = 29.15M@10.86K in 2685s
+
+Gelid Snap --> Cold Ethereal --> Fire Ethereal Bard Arcane Only
+Test Seventy Five in 1424s, 15.36M Damage @10.78K, 1. Blastonx = 15.36M@10.78K in 1424s
