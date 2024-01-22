@@ -1,0 +1,9 @@
+Buffs Burnout, Iceflame, Arcane Dissilect
+Water Pet with no weapons attacking from the front
+Test Seventy Five in 1155s, 1.21M Damage @1.05K, 1. Utopian = 1.21M@1.05K in 1155s
+
+Water Pet with two Winterbanes (1HP) attacking from the front
+Test Seventy Five in 1671s, 2.03M Damage @1.22K, 1. Utopian = 2.03M@1.22K in 1671s
+
+Water Pet with two Blazing Brands (1HS) attacking from the front
+Test Seventy Five in 1289s, 1.54M Damage @1.19K, 1. Utopian = 1.54M@1.19K in 1289s
