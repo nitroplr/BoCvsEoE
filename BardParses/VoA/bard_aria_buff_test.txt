@@ -1,0 +1,7 @@
+Wizard Full Burn With Full Caster ADPS - Bard (Aura, Arcane Address)
+Test Fifteen in 2954s, 521.69M Damage @176.60K, 1. Blastone = 521.69M@176.60K in 2954s
+Max Hit: 216,680
+
+Wizard Full Burn With Full Caster ADPS - Bard (Aura, Arcane Address, Fire Focus, Cold Focus, Fire/Magic Focus)
+Test Fifteen in 1492s, 266.70M Damage @178.76K, 1. Blastone = 266.70M@178.76K in 1492s
+Max Hit: 218,690
