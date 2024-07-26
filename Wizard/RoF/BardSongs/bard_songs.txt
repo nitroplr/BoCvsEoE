@@ -1,0 +1,5 @@
+99 Wizard/Dru/Enc with all burns that do not have charges including enc and druid auras
+Test Ten in 1815s, 364.62M Damage @200.89K, 1. Blastone = 364.62M@200.89K in 1815s
+
+99 Wizard/Dru/Enc/Bard (2 arcanes per cycle) with all burns that do not have charges including enc and druid auras
+Test Ten in 2298s, 537.72M Damage @233.99K, 1. Blastone = 537.72M@233.99K in 2298s
