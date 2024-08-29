@@ -1,0 +1,15 @@
+Full burn + intensity with both IoG and Fierce Eye -- IoG before FE on buff bar
+Wiz max hit: 885k
+Wiz avg hit: 147k
+
+Full burn + intensity with both IoG and Fierce Eye -- IoG after FE on buff bar
+Wiz max hit: 885k
+Wiz avg hit: 146k
+
+Full burn + intensity + IoG no fe
+Wiz max hit: 875k
+Wiz avg hit: 149k
+
+Full burn + IoG no fe/intensity
+Wiz max hit: 875k
+Wiz avg hit: 153k
