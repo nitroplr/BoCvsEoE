@@ -1,0 +1,19 @@
+Couldn't use an RoF in era mage because the pet is not level 100.
+Couldn't use 115 mage RoF era pet because EM is too high and did not affect pet level.
+Did use lvl 102 water pet spell with level 96 burnout and level 98 summoned weapons.
+
+Summoned weapons + Burnout
+Test One Hundred in 13s, 303.44K Damage @23.34K, 1. Utopian = 303.44K@23.34K in 13s
+
+2x Displacer Blade + Burnout
+Test One Hundred in 160s, 3.86M Damage @24.14K, 1. Utopian = 3.86M@24.14K in 160s
+
+
+2x Displacer Blade + Burnout + Full Dimensional Warrior
+Test One Hundred in 207s, 5.73M Damage @27.68K, 1. Utopian = 5.73M@27.68K in 207s
+
+Pet HP With Full Set of Gear
+A fright funnel  in 53s, 293.79K Tanked @5.54K, 1. Utopian = 212.91K
+
+Pet HP With No Gear
+A fright funnel  in 32s, 144.70K Tanked @4.52K, 1. Utopian = 112.20K
