@@ -2,15 +2,18 @@ Couldn't use an RoF in era mage because the pet is not level 100.
 Couldn't use 115 mage RoF era pet because EM is too high and did not affect pet level.
 Did use lvl 102 water pet spell with level 96 burnout and level 98 summoned weapons.
 
+2x Dagger
+Test One Hundred in 1232s, 30.57M Damage @24.81K, 1. Blastimus +Pets = 30.57M@24.81K in 1232s
+
 Summoned weapons + Burnout
-Test One Hundred in 13s, 303.44K Damage @23.34K, 1. Utopian = 303.44K@23.34K in 13s
+Test One Hundred in 1494s, 39.33M Damage @26.32K, 1. Blastimus +Pets = 39.33M@26.32K in 1494s
 
 2x Displacer Blade + Burnout
-Test One Hundred in 160s, 3.86M Damage @24.14K, 1. Utopian = 3.86M@24.14K in 160s
-
+Test One Hundred in 8223s, 199.19M Damage @24.22K, 1. Blastimus +Pets = 199.19M@24.22K in 8223s
 
 2x Displacer Blade + Burnout + Full Dimensional Warrior
 Test One Hundred in 207s, 5.73M Damage @27.68K, 1. Utopian = 5.73M@27.68K in 207s
+
 
 Pet HP With Full Set of Gear
 A fright funnel  in 53s, 293.79K Tanked @5.54K, 1. Utopian = 212.91K
