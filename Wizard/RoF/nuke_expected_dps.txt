@@ -1,0 +1,12 @@
+Flashfreeze Rk III
+13211 / 1.5 = 8,807.33 dps
+
+Ethereal Salvo Rk III
+25579 / (1.5 + 1.875 = 3.375) = 7,578.96 dps
+
+Wildether Barrage Rk III
+(((((5046 + 9428) / 2) * .35) + (19104 * .35) + (13518  * .30)) + 4180) / (1.5 + .75) = 5899.88 dps
+
+Full burn IoG + mana charge - max hit: 613k
+Full Burn + mana charge no iog - max hit: 523k
+Full Burn no mana charge no IoG - max hit: 444k

@@ -1,0 +1,21 @@
+Wildether Barrage consumes 2-3 charges of ITC
+
+Full Burns (No Sorc Blade) without FD or AD, Full ADPS (Enc with Amp/TC)
+Eth Weave --> Flashfreeze --> Eth Fire --> Eth Cold --> Eth Salvo
+Test Seventy in 2251s, 915.28M Damage @406.61K, 1. Blastone = 915.28M@406.61K in 2251s
+
+Full Burns (No Sorc Blade) without FD or AD, Full ADPS (Enc with Amp/TC)
+Eth Weave --> Wildether Barrage --> Eth Fire --> Eth Cold --> Eth Salvo
+Test Seventy in 1559s, 717.10M Damage @459.98K, 1. Blastone = 717.10M@459.98K in 1559s
+
+Full Burns (No Sorc Blade, No FoTG) without FD or AD, Full ADPS (Enc with Amp/TC)
+Eth Weave --> Flashfreeze --> Eth Fire --> Eth Cold --> Eth Salvo
+Test Seventy in 1157s, 365.61M Damage @316.00K, 1. Blastone = 365.61M@316.00K in 1157s
+
+Full Burns (No Sorc Blade, No FoTG) without FD or AD, Full ADPS (Enc with Amp/TC)
+Eth Weave --> Wildether Barrage --> Eth Fire --> Eth Cold --> Eth Salvo
+Test Seventy in 1005s, 344.72M Damage @343.00K, 1. Blastone = 344.72M@343.00K in 1005s
+
+Full Burns (No Sorc Blade, No FoTG) without FD or AD, Full ADPS (Enc with Amp/TC)
+Eth Weave --> Eth Fire --> Eth Cold --> Eth Salvo
+Test Seventy in 2241s, 691.30M Damage @308.48K, 1. Blastone = 691.30M@308.48K in 2241s
