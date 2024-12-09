@@ -1,0 +1,30 @@
+Full burns full adps nothing with charges
+Eth Fuse --> Wildflash Barrage --> claw --> eth --> eth --> eth
+Combat Dummy Caza in 2001s, 1.09B Damage @545.00K, 1. Blaston = 1.09B@545.00K in 2001s
+
+Full burns full adps nothing with charges
+Eth Fuse --> claw --> eth --> eth --> eth
+Combat Dummy Caza in 4721s, 2.41B Damage @510.05K, 1. Blaston = 2.41B@510.05K in 4721s
+
+
+Full burns without fotg full adps nothing with charges
+Eth Fuse --> Wildflash Barrage --> claw --> eth --> eth --> eth
+Combat Dummy Caza in 575s, 221.92M Damage @385.95K, 1. Blaston = 221.92M@385.95K in 575s
+
+Full burns without fotg full adps nothing with charges
+Eth Fuse --> claw --> eth --> eth --> eth
+Combat Dummy Caza in 968s, 388.92M Damage @401.77K, 1. Blaston = 388.92M@401.77K in 968s
+
+
+Full burns without fotg or twincast full adps nothing with charges
+Eth Fuse --> Wildflash Barrage --> eth --> eth --> eth
+Combat Dummy Caza in 501s, 118.89M Damage @237.31K, 1. Blaston = 118.89M@237.31K in 501s
+
+Full burns without fotg or twincast full adps nothing with charges
+Eth Fuse --> eth --> eth --> eth
+Combat Dummy Caza in 823s, 202.34M Damage @245.86K, 1. Blaston = 202.34M@245.86K in 823s
+
+Full burns without fotg or twincast full adps nothing with charges
+Eth Fuse --> flashchar --> eth --> eth --> eth
+Combat Dummy Caza in 772s, 197.81M Damage @256.23K, 1. Blaston = 197.81M@256.23K in 772s
+
