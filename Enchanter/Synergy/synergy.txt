@@ -1,0 +1,11 @@
+Full Burn - Mindsunder --> Dicho --> Drown
+Test One Hundred Five in 1683s, 3.59B Damage @2.13M, 1. Blastone = 1.04B@618.21K in 1681s | 2. Blastd = 811.83M@482.66K in 1682s | 3. Blastshadow = 565.27M@336.47K in 1680s | 4. Blastimus +Pets = 515.91M@306.72K in 1682s | 5. Blastb +Pets = 374.57M@222.69K in 1682s | 6. Blastenoff = 240.48M@143.14K in 1680s | 7. Gantik = 21.38M@12.71K in 1682s | 8. Kaber = 18.99M@11.28K in 1683s
+
+Full Burn - Mindsunder --> Dicho --> Mindcleave --> Mindscythe --> Mindblade
+Test One Hundred Five in 1514s, 3.36B Damage @2.22M, 1. Blastone = 1.02B@673.08K in 1513s | 2. Blastd = 760.76M@502.48K in 1514s | 3. Blastshadow = 517.34M@342.16K in 1512s | 4. Blastimus +Pets = 495.26M@327.12K in 1514s | 5. Blastb +Pets = 330.98M@218.61K in 1514s | 6. Blastenoff = 201.84M@133.67K in 1510s | 7. Gantik = 19.55M@12.91K in 1514s | 8. Kaber = 17.90M@11.82K in 1514s
+
+No Burns - Mindsunder --> Dicho --> Drown
+Test One Hundred Five in 1829s, 1.25B Damage @682.45K, 1. Blastimus +Pets = 258.77M@141.48K in 1829s | 2. Blastd = 244.82M@134.07K in 1826s | 3. Blastone = 241.35M@132.18K in 1826s | 4. Blastshadow = 220.67M@120.85K in 1826s | 5. Blastb +Pets = 144.46M@79.03K in 1828s | 6. Blastenoff = 104.62M@57.36K in 1824s | 7. Gantik = 17.68M@9.67K in 1828s | 8. Kaber = 15.83M@8.66K in 1827s
+
+No Burns - Mindsunder --> Dicho --> Mindcleave --> Mindscythe --> Mindblade
+Test One Hundred Five in 1520s, 1.13B Damage @740.36K, 1. Blastone = 244.05M@160.98K in 1516s | 2. Blastimus +Pets = 231.86M@152.64K in 1519s | 3. Blastd = 217.67M@143.30K in 1519s | 4. Blastshadow = 181.09M@119.30K in 1518s | 5. Blastb +Pets = 123.80M@81.5K in 1519s | 6. Blastenoff = 98.82M@65.14K in 1517s | 7. Gantik = 14.66M@9.66K in 1518s | 8. Kaber = 13.42M@8.83K in 1520s
